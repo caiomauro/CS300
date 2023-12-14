@@ -1,0 +1,28 @@
+CHEM101,General Chemistry,
+PHYS200,Classical Mechanics,MATH101
+MATH301,Linear Algebra,MATH201
+PHYS300,Quantum Mechanics,MATH301
+COMP150,Introduction to Computer Science,CSCI100
+CSCI200,Web Development,"CSCI100, COMP150"
+MATH201,Probability and Statistics,
+PHYS400,Electromagnetism,MATH301
+CSCI300,Machine Learning,"CSCI200, MATH301"
+COMP250,Data Structures and Algorithms,COMP150
+CHEM201,Organic Chemistry,CHEM101
+CSCI400,Parallel Computing,"CSCI300, COMP250"
+ENG101,Introduction to Literature,
+HIST200,World History,HIST101
+MATH301,Calculus III,MATH201
+PHIL300,Philosophy of Mind,PHIL200
+PSYC101,Introduction to Psychology,
+SOC200,Sociology,PSYC101
+COMP150,Introduction to Programming,CSCI100
+CSCI200,Database Management,"COMP150, MATH201"
+MATH201,Discrete Mathematics,
+PHYS300,Thermodynamics,MATH301
+CSCI300,Computer Networks,"CSCI200, COMP150"
+CHEM250,Inorganic Chemistry,CHEM101
+PHIL400,Ethics and Morality,PHIL300
+CSCI400,Software Engineering,"CSCI300, MATH301"
+
+
